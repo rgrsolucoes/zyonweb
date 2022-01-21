@@ -3,8 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "58532f56c0694ac7cfcb872e76ef36c9",
+  "assets/AssetManifest.json": "bc688b7dbd5a0aae47f35007482d32cd",
 "assets/assets/images/homeZyon.png": "5e256463cae8e91c5d0a647f4ae6fb97",
+"assets/assets/images/logoZyonAnd.png": "bbf3ae8904e59253d8e76c87743161e9",
 "assets/assets/images/logoZyonT.png": "a6e12f965b157848cff1f090ce2f5860",
 "assets/assets/images/logoZyonUrb.png": "c1320887e55e8175e1d752548c5ce66c",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
@@ -14,9 +15,9 @@ const RESOURCES = {
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "162610c964b3c5274960e75a56af3254",
-"/": "162610c964b3c5274960e75a56af3254",
-"main.dart.js": "68806712746d47c5aee716e98171dd97",
+"index.html": "bf0831ff95b676ce644381a1bea90a1c",
+"/": "bf0831ff95b676ce644381a1bea90a1c",
+"main.dart.js": "37fd9edbd566ee610cc87e0cbbce776c",
 "manifest.json": "9be77192d552a3674bc4aeea25172e02",
 "version.json": "df97cfd3f353000658a996f4a5f968dd"
 };
